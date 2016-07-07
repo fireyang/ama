@@ -1,12 +1,18 @@
 # Ask me anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
+## [ 提问](../../issues/new) &nbsp;&nbsp;&nbsp; [回答](../../issues?q=is%3Aissue+is%3Aclosed)
 
-My name is Dan Abramov.  
+我的名字叫 FireYang
 
-I'm known for contributing to projects in React ecosystem and creating [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux](https://github.com/rackt/redux).  
-This AMA is a good place to ask me personal or work-related questions.  
+fork 这个项目，主要是自问自答，方便收集自己的问题，记录答案！
+
+当然也欢迎提问，尽力回答！
+
 Ask me anything!
+
+！如果你也喜欢AMA，也fork一个吧。
+
+推荐列表：[AMA 名单](https://github.com/sindresorhus/amas)
 
 -
 
