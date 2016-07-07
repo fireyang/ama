@@ -10,7 +10,7 @@ fork 这个项目，主要是自问自答，方便收集自己的问题，记录
 
 Ask me anything!
 
-！如果你也喜欢AMA，也fork一个吧。
+PS：如果你也喜欢AMA，也fork一个吧。
 
 推荐列表：[AMA 名单](https://github.com/sindresorhus/amas)
 
